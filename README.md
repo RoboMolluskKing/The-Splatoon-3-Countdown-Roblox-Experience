@@ -10,3 +10,9 @@ Use https://epochconverter.com to convert your desired time to computer time.
 Technologies used: <br />
 <a href="https://github.com/TheNexusAvenger/Nexus-VR-Character-Model">Nexus VR</a>: Experience Roblox in virtual reality by TheNexusAvenger <br />
 <a href="https://www.roblox.com/library/5633035401/-">QR Code Generator</a> (recoded by RAFA1608 on Roblox): Create QR codes inside Roblox (don't worry, it's safe here) <br />
+
+
+The Countdown experience uses the <a href="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</a> license. <br />
+Cue Cumber (character) uses the <a href="https://creativecommons.org/licenses/by/4.0/deed.en">Creative Commons Attribution 4.0 International Public License</a> license. <br />
+Nexus VR uses the <a href="https://opensource.org/licenses/MIT">MIT</a> license. <br />
+The QR Code Generator uses the <a href="https://opensource.org/licenses/BSD-3-Clause">3-Clause BSD (New BSD)</a> license. <br />
