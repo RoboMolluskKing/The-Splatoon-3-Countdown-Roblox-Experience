@@ -15,4 +15,4 @@ Technologies used: <br />
 The Countdown experience uses the <a href="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</a> license. <br />
 Cue Cumber (character) uses the <a href="https://creativecommons.org/licenses/by/4.0/deed.en">Creative Commons Attribution 4.0 International Public License</a> license. <br />
 Nexus VR uses the <a href="https://opensource.org/licenses/MIT">MIT</a> license. <br />
-The QR Code Generator uses the <a href="https://opensource.org/licenses/BSD-3-Clause">3-Clause BSD (New BSD)</a> license. <br />
+The QR Code Generator, used for generating the everytimezone link beside the timer, uses the <a href="https://opensource.org/licenses/BSD-3-Clause">3-Clause BSD (New BSD)</a> license. <br />
